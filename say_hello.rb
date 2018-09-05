@@ -1,3 +1,3 @@
 def say_hello
-  puts "Ludvig"
+  puts "Hello Ruby Programmer"
 end
