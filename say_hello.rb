@@ -1,3 +1,3 @@
-def say_hello(phrase)
-  puts phrase = "Ludvig"
+def say_hello
+  puts "Ludvig"
 end
